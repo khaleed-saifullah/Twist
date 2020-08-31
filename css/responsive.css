@@ -1,0 +1,127 @@
+@media (max-width: 1199.98px) { 
+    .slider-text h2{
+        font-size: 50px;
+    }
+    .brand-list{
+        text-align: left;
+    }
+    .single-brand img{
+        width: 160px;
+    }
+    .service-description{
+        width: auto;
+    }
+    
+
+ }
+@media (max-width: 991.98px) {
+    .slider-text h2{
+        font-size: 38px;
+    }
+    .mainmenu ul li{
+        padding-right:18px;
+        padding-left: 0px; 
+    }
+    .mainmenu ul li:last-child{
+        padding-right:0px; 
+    }
+    .tile-gallary {  
+        margin-left: 0px;
+    }
+    .tile-gallary img{
+        height: 390px;
+        width: 350px
+    }
+    .tile-gallary img:nth-child(2) {
+        top: 100px;
+    }
+    .about-us h2,.cta h2{
+        font-size: 23px;
+    }
+    .service-image {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);    
+    }
+    .single-progress-bar{
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .single-progress-bar h3{
+        margin-top: 0!important;
+    }
+    .single-brand img{
+        width: 110px;
+    }
+    .social-icon a{
+        display: block;
+        text-align: center;
+        margin: 10px auto;
+        text-align: center;
+    }
+    .social-icon a:last-child{
+        margin-right: auto;
+    }
+
+
+ }
+@media (max-width: 767.98px) { 
+    .mobile-wrap-menu{
+        display: block;
+    }
+    .mobile-wrap-menu .slicknav_menu {
+        background:none;
+    
+    }
+    .mobile-wrap-menu .slicknav_menu .slicknav_menutxt {
+        display: none;
+    
+    }
+    .mobile-wrap-menu .slicknav_btn{
+        background: none;
+        margin: 0;
+        box-shadow: 0 0 0;
+        float: left;
+    }
+    .mobile-wrap-menu .slicknav_menu .slicknav_nav{
+        background: #0bbbc1;
+    }
+    .about-us{
+        padding-top: 0!important;
+    }
+    .mainmenu{
+        display: none;
+    }
+    .single-brand img{
+        width: 80px;
+    }
+    .skills,.cta,.tesmonial,.brands,.footer{
+        padding: 70px 0;
+    }
+
+    
+}
+
+@media (max-width: 575.98px) {
+    .slider-text h2{
+        font-size: 30px;
+    }
+    .slider-text {
+        padding: 100px 0;    
+    }
+ }
+
+@media (max-width: 320px){
+    .slider-text h2{
+        font-size: 25px;
+    }
+    .about-us h2,.cta h2{
+        font-size: 20px;
+    }
+}
+
+
+
+
+
+
